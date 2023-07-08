@@ -1,0 +1,3 @@
+comandos do git, para praticar ou para lembrar sempre que eu precisar usar o git, para fazer vercionamento de projetos.
+
+eJwtzMtqwzAQheF30doL2a7bWDtvSmkXhfQG3YjRaJIKy5IyspukIe9eEbw7HPj+iwBEyvk9jhSEEp01mxptZ3uEtt9YabCFrm3uzY4k3pm+QZJNC6ISieOvs8QrvawlPa+p/U/UL9vwGYaH6fVr+1Y34TBYGJ759PRXfzh4lEYelu+SuhE9nxMVZwiYuLwZ4+0AO7mg0mK8Qz3SuWICqyLvy0ixWjKxogmcr46Rx52Px4LplBxT1jALFRbvr9d/93VQ8A==
